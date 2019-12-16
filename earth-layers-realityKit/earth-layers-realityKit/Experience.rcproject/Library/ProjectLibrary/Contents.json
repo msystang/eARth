@@ -1,3 +1,62 @@
 [
-
+  {
+    "libraryIdentifier" : "669d00c9650c7490aaf8155d0a430400",
+    "format" : "model",
+    "displayName" : "earth.usdz"
+  },
+  {
+    "libraryIdentifier" : "66c4ce40a6430ecf0e642f9c58a098d5",
+    "format" : "model",
+    "displayName" : "earth-vec.usdz"
+  },
+  {
+    "libraryIdentifier" : "c5c092cd3fd2a6917d691e9f25275580",
+    "format" : "model",
+    "displayName" : "crust-left.usdz"
+  },
+  {
+    "libraryIdentifier" : "e783445d93d89c5417ca0d6164ceabaf",
+    "format" : "model",
+    "displayName" : "crust-right.usdz"
+  },
+  {
+    "libraryIdentifier" : "f26d04fbea698c1130bdc9c5fee08dae",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a.usdz"
+  },
+  {
+    "libraryIdentifier" : "6adcaef7eefab89bb54718f9b89f6f68",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a (1).usdz"
+  },
+  {
+    "libraryIdentifier" : "87317e03eb332fffa28f2ba44c5e9f0e",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a (3).usdz"
+  },
+  {
+    "libraryIdentifier" : "35f14a00f7843edb5c7d6108d1c49bbe",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a.usdz"
+  },
+  {
+    "libraryIdentifier" : "d72d860023e3049f0ef3e67d3d86870d",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a (1).usdz"
+  },
+  {
+    "libraryIdentifier" : "bc753db85dfdce6046ff59f35b4da4f4",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a (2).usdz"
+  },
+  {
+    "libraryIdentifier" : "17cbbae332af75afa210e8f9fef627d3",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a (3).usdz"
+  },
+  {
+    "libraryIdentifier" : "2189d498bfaab19ddef1f2f08297c4bc",
+    "format" : "model",
+    "displayName" : "81b90ae5-21e8-4008-9fde-7765d801d97a.usdz"
+  }
 ]
