@@ -16,10 +16,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Load the "Box" scene from the "Experience" Reality File
-        let boxAnchor = try! Experience.loadBox()
+        // Load the "Earth" scene from the "Experience" Reality File
+        let earthAnchor = try! Experience.loadEarth()
         
         // Add the box anchor to the scene
-        arView.scene.anchors.append(boxAnchor)
+        arView.scene.anchors.append(earthAnchor)
     }
 }
