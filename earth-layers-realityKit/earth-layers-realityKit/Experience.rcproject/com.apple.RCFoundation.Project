@@ -84,6 +84,105 @@
                     }
                   ],
                   "__version" : 2
+                },
+                {
+                  "__content" : [
+                    {
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "animationStyle" : "basic",
+                                          "buildOutAnimationType" : "none",
+                                          "distance" : 1,
+                                          "duration" : 0,
+                                          "fadeOut" : true,
+                                          "finalOpacity" : 0,
+                                          "linearCoefficient" : 1,
+                                          "moveEase" : "easeInOut",
+                                          "respectPhysics" : false,
+                                          "target" : [
+                                            "6631AF86-9AA1-4B1E-9A47-1B3A9FF26895"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "hide"
+                                        }
+                                      },
+                                      "identifier" : "863CED2B-84D4-4942-AC5A-CE5C5C819875",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "target" : [
+                                            "6631AF86-9AA1-4B1E-9A47-1B3A9FF26895"
+                                          ],
+                                          "userIdentifier" : "crust-hide"
+                                        },
+                                        "name" : {
+                                          "type" : "custom"
+                                        }
+                                      },
+                                      "identifier" : "FB95C3B2-52DF-433A-B5F2-9B8CC05CDA72",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "20B35B86-6C16-4B3E-99D2-AF25FBA7E189",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.21568627655506134,
+                        0.72549021244049072,
+                        0.80000001192092896,
+                        1
+                      ],
+                      "identifier" : "4312DE2F-7560-40ED-BEF9-3C2E62E5CED6",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "crust-full hide",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "6631AF86-9AA1-4B1E-9A47-1B3A9FF26895"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "CAADF7C3-1A60-476B-B85B-9CCE435E327E",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 2
                 }
               ],
               "gravity" : [
@@ -246,21 +345,21 @@
               "title" : "Earth",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.92383760213851929,
-                  -7.4505805969238281e-08,
-                  0.38278454542160034,
+                  0.94982302188873291,
+                  -1.7136335372924805e-07,
+                  0.31278771162033081,
                   0,
-                  0.18521770834922791,
-                  0.87514036893844604,
-                  -0.4470163881778717,
+                  0.1453840434551239,
+                  0.88541549444198608,
+                  -0.44147801399230957,
                   0,
-                  -0.33499014377593994,
-                  0.48386901617050171,
-                  0.8084876537322998,
+                  -0.276947021484375,
+                  0.46480035781860352,
+                  0.84098803997039795,
                   0,
-                  -0.10265425592660904,
-                  0.67661851644515991,
-                  0.98562401533126831,
+                  -0.65345364809036255,
+                  1.1553219556808472,
+                  1.7688782215118408,
                   1
                 ],
                 "sceneTransform" : [
