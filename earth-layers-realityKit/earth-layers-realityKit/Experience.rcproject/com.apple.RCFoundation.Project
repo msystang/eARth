@@ -207,9 +207,117 @@
               "overrides" : {
                 "children" : {
                   "1C0B24AB-5CE6-4C4A-B86E-E26D07F153B8" : null,
+                  "2A73E065-148B-4768-8C27-D35B6C31B2B9" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:b446f3517f30c0e1f9625a6798793f79\/crust-left.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "5DC80197-3EA4-46E8-BFB6-03C2795082CE"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "93DB55D8-493E-46A1-B04B-5AA17E195550"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.0000001192092896,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.0000001192092896,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.0000001192092896,
+                        0,
+                        0,
+                        0.15000000596046448,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "3A02CE86-75FC-403B-B67C-2F2C81EB638A" : null,
                   "03D29378-20A1-4F43-AEF5-28A54F2422F5" : null,
                   "4A59A39A-1B7F-463C-9A5B-D957BE707691" : null,
                   "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
+                  "4B0E7864-7106-43D6-BFFB-670C05E6A134" : null,
                   "4F04CBF9-FE51-4CC6-A23A-022054B84085" : null,
                   "4F48923B-5FFC-43C8-A33B-71B2D5C8CC29" : null,
                   "5FEDC0A7-05AE-4438-A0B2-66A837D42F46" : null,
@@ -236,9 +344,11 @@
                   "C928AC81-04D1-4B4A-A834-23DF6337FD17" : null,
                   "CB32FC93-FD3A-47CB-B62F-0A9BC41238D6" : null,
                   "D5046888-F2D1-4D80-AF91-4C2953CDDDFC" : null,
+                  "DE59EC39-AE16-4178-87BD-BA70F4DA0296" : null,
                   "EBF383E8-1466-454B-B66C-F3244BBEB260" : null,
                   "ECA61ED5-98F9-4DCB-BCBD-65948BB696DD" : null,
                   "EF56ACBD-F8AE-4F66-8F1F-28F40CCF99BF" : null,
+                  "F9EE5E47-B497-4BE5-9FD8-AA1715499336" : null,
                   "F76F28A5-1500-4BF5-8CFB-25901E83F60C" : {
                     "overrides" : {
                       "children" : {
@@ -333,17 +443,17 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1.5000001192092896,
+                        1.0000001192092896,
                         0,
                         0,
                         0,
                         0,
-                        1.5000001192092896,
+                        1.0000001192092896,
                         0,
                         0,
                         0,
                         0,
-                        1.5000001192092896,
+                        1.0000001192092896,
                         0,
                         0,
                         0.15000000596046448,
@@ -358,21 +468,21 @@
               "title" : "Earth",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.94982302188873291,
-                  -1.7136335372924805e-07,
-                  0.31278771162033081,
+                  0.99425345659255981,
+                  -1.7136333951839333e-07,
+                  0.10705139487981796,
                   0,
-                  0.1453840434551239,
-                  0.88541549444198608,
-                  -0.44147801399230957,
+                  0.056074365973472595,
+                  0.85183757543563843,
+                  -0.52079588174819946,
                   0,
-                  -0.276947021484375,
-                  0.46480035781860352,
-                  0.84098803997039795,
+                  -0.091190315783023834,
+                  0.52380597591400146,
+                  0.8469424843788147,
                   0,
-                  -0.65345364809036255,
-                  1.1553219556808472,
-                  1.7688782215118408,
+                  -0.10282723605632782,
+                  0.70116549730300903,
+                  0.85911542177200317,
                   1
                 ],
                 "sceneTransform" : [
