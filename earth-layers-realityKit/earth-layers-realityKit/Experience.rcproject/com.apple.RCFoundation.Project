@@ -121,7 +121,18 @@
                                     }
                                   ],
                                   "__version" : 1
-                                },
+                                }
+                              ],
+                              "identifier" : "20B35B86-6C16-4B3E-99D2-AF25FBA7E189",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        },
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
                                 {
                                   "__content" : [
                                     {
@@ -130,7 +141,7 @@
                                           "target" : [
                                             "6631AF86-9AA1-4B1E-9A47-1B3A9FF26895"
                                           ],
-                                          "userIdentifier" : "crust-hide"
+                                          "userIdentifier" : "crust-full-hide"
                                         },
                                         "name" : {
                                           "type" : "custom"
@@ -143,7 +154,7 @@
                                   "__version" : 1
                                 }
                               ],
-                              "identifier" : "20B35B86-6C16-4B3E-99D2-AF25FBA7E189",
+                              "identifier" : "099D4517-4F0D-4E04-ACC5-FC9E8C7FDB72",
                               "isEnabled" : true
                             }
                           ],
@@ -218,10 +229,12 @@
                   "7072A393-52B5-47BB-9583-34BD484D6A8F" : null,
                   "7988E963-1A35-442A-9334-A597305FDBB7" : null,
                   "9064F357-20D5-43F1-BB05-AB2065D18557" : null,
+                  "46346CF1-02AD-480F-891B-D3FB6829699A" : null,
                   "A6524AFE-2A30-41F7-A948-11577A48DD5C" : null,
                   "B7C67431-336A-410D-BCF8-439F5297E8C1" : null,
                   "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null,
                   "C928AC81-04D1-4B4A-A834-23DF6337FD17" : null,
+                  "CB32FC93-FD3A-47CB-B62F-0A9BC41238D6" : null,
                   "D5046888-F2D1-4D80-AF91-4C2953CDDDFC" : null,
                   "EBF383E8-1466-454B-B66C-F3244BBEB260" : null,
                   "ECA61ED5-98F9-4DCB-BCBD-65948BB696DD" : null,
