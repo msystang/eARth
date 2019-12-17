@@ -63,5 +63,15 @@
     "libraryIdentifier" : "b446f3517f30c0e1f9625a6798793f79",
     "format" : "model",
     "displayName" : "crust-left.usdz"
+  },
+  {
+    "libraryIdentifier" : "ca706137df14eed98dc10ba29faa541b",
+    "format" : "model",
+    "displayName" : "mantle-left.usdz"
+  },
+  {
+    "libraryIdentifier" : "a96be3d9415b0192b0dfd385d95db1d9",
+    "format" : "model",
+    "displayName" : "mantle-asym.usdz"
   }
 ]

@@ -322,6 +322,7 @@
                   },
                   "3A02CE86-75FC-403B-B67C-2F2C81EB638A" : null,
                   "03D29378-20A1-4F43-AEF5-28A54F2422F5" : null,
+                  "3FC73B5B-1A32-4EE2-BF3D-58AF829C44E4" : null,
                   "4A59A39A-1B7F-463C-9A5B-D957BE707691" : null,
                   "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
                   "4B0E7864-7106-43D6-BFFB-670C05E6A134" : null,
@@ -355,6 +356,119 @@
                   "EBF383E8-1466-454B-B66C-F3244BBEB260" : null,
                   "ECA61ED5-98F9-4DCB-BCBD-65948BB696DD" : null,
                   "EF56ACBD-F8AE-4F66-8F1F-28F40CCF99BF" : null,
+                  "F09A293C-3EE4-4FD1-B786-C8729FCCF92E" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:a96be3d9415b0192b0dfd385d95db1d9\/mantle-asym.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "F644335A-E259-41A3-A0BC-6F85B5BA69AC"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "316775EF-71AB-4B1A-8BD4-ECB5AD1BA070"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "mantle-asym"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.15000000596046448,
+                        0,
+                        1
+                      ]
+                    }
+                  },
                   "F9EE5E47-B497-4BE5-9FD8-AA1715499336" : null,
                   "F76F28A5-1500-4BF5-8CFB-25901E83F60C" : {
                     "overrides" : {
@@ -450,17 +564,17 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1.0000001192092896,
+                        1.0100001096725464,
                         0,
                         0,
                         0,
                         0,
-                        1.0000001192092896,
+                        1.0100001096725464,
                         0,
                         0,
                         0,
                         0,
-                        1.0000001192092896,
+                        1.0100001096725464,
                         0,
                         0,
                         0.15000000596046448,
@@ -475,21 +589,21 @@
               "title" : "Earth",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99425345659255981,
-                  -1.7136333951839333e-07,
-                  0.10705139487981796,
+                  0.68510961532592773,
+                  -1.7136335372924805e-07,
+                  -0.72843992710113525,
                   0,
-                  0.056074365973472595,
-                  0.85183757543563843,
-                  -0.52079588174819946,
+                  -0.40354380011558533,
+                  0.83252745866775513,
+                  -0.37953975796699524,
                   0,
-                  -0.091190315783023834,
-                  0.52380597591400146,
-                  0.8469424843788147,
+                  0.60644632577896118,
+                  0.55398368835449219,
+                  0.57037240266799927,
                   0,
-                  -0.10282723605632782,
-                  0.70116549730300903,
-                  0.85911542177200317,
+                  0.54748493432998657,
+                  0.73039805889129639,
+                  0.43688002228736877,
                   1
                 ],
                 "sceneTransform" : [
