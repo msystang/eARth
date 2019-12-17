@@ -73,5 +73,20 @@
     "libraryIdentifier" : "a96be3d9415b0192b0dfd385d95db1d9",
     "format" : "model",
     "displayName" : "mantle-asym.usdz"
+  },
+  {
+    "libraryIdentifier" : "1fb4e7de9668c3a718cac8f69a4f0b8d",
+    "format" : "model",
+    "displayName" : "outercore-asym.usdz"
+  },
+  {
+    "libraryIdentifier" : "f4c3920ceb4841aafae0720d73035842",
+    "format" : "model",
+    "displayName" : "innercore-full.usdz"
+  },
+  {
+    "libraryIdentifier" : "cd9267a6bb72c6d8161682c74af61602",
+    "format" : "model",
+    "displayName" : "innercore-full.usdz"
   }
 ]

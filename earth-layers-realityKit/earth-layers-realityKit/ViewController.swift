@@ -16,8 +16,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // TODO: Hide crust-left completely
         // TODO: Add activity indicator while objects load
-        // TODO: Add objects async
+        // TODO: Add objects async - loadtime currently ~2-3 min
         // Load the "Earth" scene from the "Experience" Reality File
         let earthAnchor = try! Experience.loadEarth()
         
