@@ -289,6 +289,13 @@
                             "typeName" : "UUID",
                             "value" : "93DB55D8-493E-46A1-B04B-5AA17E195550"
                           }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "crust-left"
+                          }
                         ]
                       ]
                     },
