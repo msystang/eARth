@@ -1,7 +1,7 @@
 # eARth (earth-layers-realityKit)
 
 # Overview
-This iOS app uses augmented reality as a learning tool to model and explore the different layers of the Earth. 
+This iOS app uses augmented reality as a learning tool to model and explore the different layers of the Earth. All 3D Assets are designed and created from scratch.
 
 # Tools Used
 - Language: Swift
