@@ -1,16 +1,16 @@
-# eARth (earth-layers-realityKit)
+# eARth
 
-# Overview
+## Overview
 This iOS app uses augmented reality as a learning tool to model and explore the different layers of the Earth. All 3D Assets are designed and created from scratch.
 
-# Tools Used
+## Tools Used
 - Language: Swift
 - Program: Xcode 11.2.1
 - Framework: RealityKit
 - Simulator: iPhone (A9 processor or higher)
 - 3D Object Design: Vectary.com
 
-# Current Functionality
+## Current Functionality
 (as of 12/17/19)
 - Upon running the app, you will receive an alert asking for camera access. Select "Allow" to use this app.
 - Point your camera at a horizontal surface (i.e. table, floor).
@@ -22,12 +22,12 @@ This iOS app uses augmented reality as a learning tool to model and explore the 
         Orange layer: outer core
         Yellow layer: innter core
 
-# Upcoming Features
+## Upcoming Features
 - Tapping on each layer will show a description of each layer.
 - Fix bug where part of the "hidden crust" is visible on the left side of the rotating Earth object.
 - The ability to hide/show any or all layers of the Earth to view specific layers without obscruction.
 
-# Nice-To-Haves
+## Nice-To-Haves
 - An option to select whether the user wants to view layers of the Earth based on "chemical composition" or based on "physical properties".
 - Animations in each layer to visualize Earth's internal dynamics.
 - An accompanying lesson plan aligned with NGSS and Common Core standards!
