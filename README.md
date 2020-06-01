@@ -22,6 +22,10 @@ This iOS app uses augmented reality as a learning tool to model and explore the 
         Orange layer: outer core
         Yellow layer: innter core
 
+## Screenshots
+<img src="./images/eARth-1.PNG" width = "300">
+<img src="./images/eARth-2.PNG" width = "300">
+
 ## Upcoming Features
 - Tapping on each layer will show a description of each layer.
 - Fix bug where part of the "hidden crust" is visible on the left side of the rotating Earth object.
